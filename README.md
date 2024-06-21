@@ -3,6 +3,7 @@
 ## x-sign仅供测试交流学习使用，否则后果自负。
 ## 对淘宝app抓包技术感兴趣的，想要一起交流的。
 ## 可以联系我wx：jinlong181226（注明来意）
+https://github.com/jinlong258/taobao_xSign/blob/main/test.png?raw=true
 #### 签名获取成功：
 x-sgext：JA02d%2BNeMBbUVeqamSCSGHcHRwZOD1QHRwFPDlQOVBVGAUYOTg5HAkIEVAZHBkcGRwZHBkcGRwZHBkcVRxVHFUcGVAZHBkcVRxVGFUYVRhVGFUYVRhVHFUcVRxVHFUcVRxVHFUcVRxVHFVQGVFARFUcVRwZHBkcGVAZHBkcGVAZUAk8AVAZUFU4VRxVHFTB1H0xUBg%3D%3D
 x-sign：azYBCM004xAALlWJnNx1w6ZCDW4FDlWOWPqb%2BBIQmqcBY3Wd8trmQwZ2daYsvHN%2B6ok4uoSShCBWNHHK9tRhygQ6AB5VnlWOVZ5Vjl
