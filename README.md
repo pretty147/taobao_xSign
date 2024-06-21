@@ -2,7 +2,7 @@
 ### 淘宝、taobao、闲鱼、xianyu、x-sign交流学习测试
 ## x-sign仅供测试交流学习使用，否则后果自负。
 ## 对淘宝app抓包技术感兴趣的，想要一起交流的。
-## 可以联系我wx：jinlong181226（注明来意）
+## 可以联系我qq：2582276346（注明来意）
 ![](https://raw.githubusercontent.com/jinlong258/taobao_xSign/main/test.png) 
 #### 签名获取成功：
 x-sgext：JA02d%2BNeMBbUVeqamSCSGHcHRwZOD1QHRwFPDlQOVBVGAUYOTg5HAkIEVAZHBkcGRwZHBkcGRwZHBkcVRxVHFUcGVAZHBkcVRxVGFUYVRhVGFUYVRhVHFUcVRxVHFUcVRxVHFUcVRxVHFVQGVFARFUcVRwZHBkcGVAZHBkcGVAZUAk8AVAZUFU4VRxVHFTB1H0xUBg%3D%3D
